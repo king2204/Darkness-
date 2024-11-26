@@ -1,0 +1,22 @@
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\bin\Debug\Turn_Based_Gae.exe.config
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\bin\Debug\Turn_Based_Gae.exe
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\bin\Debug\Turn_Based_Gae.pdb
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Game.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Game.Turn_Based_GameForm.resources
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.InstructionForm.resources
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Game.Properties.Resources.resources
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Game.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Game.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Gae.exe
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Gae.pdb
+C:\Users\makoto\source\repos\Darkness DungeonBrawl\DungeonBrawl\bin\Debug\Turn_Based_Gae.exe.config
+C:\Users\makoto\source\repos\Darkness DungeonBrawl\DungeonBrawl\bin\Debug\Turn_Based_Gae.exe
+C:\Users\makoto\source\repos\Darkness DungeonBrawl\DungeonBrawl\bin\Debug\Turn_Based_Gae.pdb
+C:\Users\makoto\source\repos\Darkness DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Game.csproj.AssemblyReference.cache
+C:\Users\makoto\source\repos\Darkness DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Game.Turn_Based_GameForm.resources
+C:\Users\makoto\source\repos\Darkness DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.InstructionForm.resources
+C:\Users\makoto\source\repos\Darkness DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Game.Properties.Resources.resources
+C:\Users\makoto\source\repos\Darkness DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Game.csproj.GenerateResource.cache
+C:\Users\makoto\source\repos\Darkness DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Game.csproj.CoreCompileInputs.cache
+C:\Users\makoto\source\repos\Darkness DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Gae.exe
+C:\Users\makoto\source\repos\Darkness DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Gae.pdb

@@ -1,0 +1,31 @@
+F:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\bin\Debug\DungeonBrawl.exe.config
+F:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\bin\Debug\DungeonBrawl.exe
+F:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\bin\Debug\DungeonBrawl.pdb
+F:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.csprojAssemblyReference.cache
+F:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.DungeonBrawlForm.resources
+F:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.Properties.Resources.resources
+F:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.csproj.GenerateResource.cache
+F:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.exe
+F:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.pdb
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\bin\Debug\DungeonBrawl.exe.config
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\bin\Debug\DungeonBrawl.exe
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\bin\Debug\DungeonBrawl.pdb
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.csprojAssemblyReference.cache
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.DungeonBrawlForm.resources
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.Properties.Resources.resources
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.csproj.GenerateResource.cache
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.exe
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.pdb
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.InstructionForm.resources
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\__FINAL\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.InstructionForm.resources
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\obj\Debug\DungeonBrawl.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Game.Properties.Resources.resources
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\bin\Debug\Turn_Based_Gae.exe.config
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\bin\Debug\Turn_Based_Gae.exe
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\bin\Debug\Turn_Based_Gae.pdb
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Game.Turn_Based_GameForm.resources
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Gae.exe
+\\Mac\Home\Downloads\DungeonBrawl-M\DungeonBrawl-master\DungeonBrawl\DungeonBrawl\obj\Debug\Turn_Based_Gae.pdb
